@@ -27,8 +27,8 @@ El objetivo es transformar datos crudos de transacciones para obtener una vista 
 # Instalación y Configuración
 - Clonar el repositorio (o descargar los archivos):
 
-`git clone <https://github.com/camilocero01/api_wompi/>
-cd <API_WOMPI>`
+`git clone <https://github.com/camilocero01/api_wompi/>`
+`cd <API_WOMPI>`
 
 # Instalar dependencias: El proyecto requiere pandas para el procesamiento de datos y pyarrow (o fastparquet) para manejar el formato Parquet.
 
